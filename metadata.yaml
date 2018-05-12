@@ -1,0 +1,33 @@
+_repo: The-Mechanism-of-Life_33862
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Butcher, William Deane
+    alias: Butcher, W. Deane
+    gutenberg_agent_id: '36746'
+    url: http://www.gutenberg.org/2009/agents/36746
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leduc, Stéphane
+    alias: Leduc, Stephane
+    birthdate: 1853
+    deathdate: 1939
+    gutenberg_agent_id: '36741'
+    url: http://www.gutenberg.org/2009/agents/36741
+description: ''
+gutenberg_issued: '2010-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life (Biology)'
+- !lcc 'QH'
+title: The Mechanism of Life
+url: http://www.gutenberg.org/ebooks/33862
